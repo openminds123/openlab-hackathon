@@ -1,5 +1,5 @@
 import React, { Children } from  'react';
-import styles from './mainpage.module.css';
+import styles from './styles.module.css';
 
 export const MainPage =({
     children,
